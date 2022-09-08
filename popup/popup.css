@@ -1,0 +1,21 @@
+body {
+  background-color: #222;
+  color: #eee;
+
+  width: auto;
+  height: auto;
+  border-radius: 10px;
+}
+
+.special-text {
+  color: red;
+}
+
+#start-button {
+  background-color: #222;
+  color: white;
+  border: none;
+  padding: 7px 20px 8px 20px;
+  font-size: 20px;
+  cursor: pointer;
+}
